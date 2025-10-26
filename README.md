@@ -74,16 +74,14 @@ This project uses the **Bitext Sample Customer Support Dataset (27K responses)**
 ### **5. Testing on Sample Inputs**
 #### 📷 Example Output
 _Screenshot_ of results:
-
-```markdown
 ![Model Results](assets/model_results.png)
 
 🧩 Tech Stack
-    Python 🐍
-    Scikit-learn
-    Pandas / NumPy
-    NLTK / Regex
-    TF-IDF Vectorizer
+> - Python 🐍
+> - Scikit-learn
+> - Pandas / NumPy
+> - NLTK / Regex
+> - TF-IDF Vectorizer
 
 📅 Version: 1.0
 🧾 License: MIT
