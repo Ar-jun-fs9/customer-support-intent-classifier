@@ -4,6 +4,14 @@
 
 NLP-based intent classification model for customer support queries using **TF-IDF** and **Logistic Regression**.
 
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
+[![Scikit-Learn](https://img.shields.io/badge/ML-Scikit--Learn-orange.svg)](https://scikit-learn.org/stable/)
+[![Pandas](https://img.shields.io/badge/Library-Pandas-brightgreen.svg)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/Library-NumPy-yellow.svg)](https://numpy.org/)
+[![NLTK](https://img.shields.io/badge/NLP-NLTK-lightgrey.svg)](https://www.nltk.org/)
+[![Regex](https://img.shields.io/badge/Library-Regex-red.svg)](https://docs.python.org/3/library/re.html)
+[![TF-IDF](https://img.shields.io/badge/Vectorizer-TF--IDF-blueviolet.svg)](https://scikit-learn.org/stable/modules/feature_extraction.html#tfidf-term-weighting)
+
 </div>
 
 ---
@@ -80,12 +88,13 @@ This project uses the **Bitext Sample Customer Support Dataset (27K responses)**
 _Here_ _is_ _the_ _sample_ _result_ _from_ _the_ _model_:
 ![Model Results](assets/model_results.png)
 
-🧩 Tech Stack
-> - _Python_ _🐍_
-> - _Scikit-learn_
-> - _Pandas / NumPy_
-> - _NLTK / Regex_
-> - _TF-IDF Vectorizer_
+**License**
 
-📅 Version: 1.0
-🧾 License: MIT
+[![License](https://img.shields.io/badge/license-MIT-black.svg?labelColor=orange)](#)
+
+<div align="center">
+
+**[⬆ Back to Top](#-customer-support-intent-clasifier)**
+
+</div>
+
