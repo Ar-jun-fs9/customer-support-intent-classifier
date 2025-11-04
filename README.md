@@ -1,6 +1,10 @@
+<div align="center">
+  
 # 🧠 Customer Support Intent Classifier
 
 NLP-based intent classification model for customer support queries using **TF-IDF** and **Logistic Regression**.
+
+</div>
 
 ---
 
