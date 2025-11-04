@@ -1,4 +1,5 @@
 <div align="center">
+<a name="top"></a>
   
 # 🧠 Customer Support Intent Classifier
 
@@ -93,9 +94,9 @@ _Here_ _is_ _the_ _sample_ _result_ _from_ _the_ _model_:
 [![License](https://img.shields.io/badge/license-MIT-black.svg?labelColor=orange)](#)
 
 <div align="center">
-
-**[⬆ Back to Top](#🧠-customer-support-intent-classifier)**
-
+   
+  **[⬆ Back to Top](#top)**
+  
 </div>
 
 
